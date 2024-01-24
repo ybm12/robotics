@@ -1,6 +1,6 @@
 from machine import Pin, SPI
 from os import uname
-
+# added line 3
 
 class MFRC522:
 
